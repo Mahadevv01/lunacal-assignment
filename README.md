@@ -52,4 +52,30 @@ Open your browser and navigate to http://localhost:3000 to view the application.
 
 ## Live Demo: 
    ### https://lunacal-demo.netlify.app/
+   ## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any questions or feedback, please contact:
+
+- **Name:** Mohit sharma
+- **Email:**mohitsharma110104@gmail.com
+- **GitHub:** Mahadevv01
+
+## Acknowledgements
+
+- Thanks to [Figma](https://www.figma.com) for providing an excellent design tool.
+- Special thanks to the [Lunacal team](#) for their inspiration and support.
+- Icons and resources used in this project are from [IconSource](https://iconsource.com).
+
+## Contributing
+
+If you'd like to contribute to this project, please fork the repository and submit a pull request. All contributions are welcome!
+
+## Changelog
+
+See the [CHANGELOG](CHANGELOG.md) for details on changes and updates to this project.
+
 
