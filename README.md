@@ -1,4 +1,5 @@
-# Lunacal Figma File Replication
+# Replicating the Lunacal Figma Design
+
 
 This project is a replica of a Figma design provided by Lunacal. The implementation is done using React.js, Tailwind CSS, and a preferred UI library to match the design specifications as closely as possible.
 
@@ -36,7 +37,7 @@ The application consists of multiple components such as tabs, image galleries, a
 ## Installation and Setup
 
 1. Clone the repository:<br/>
-   git clone https://github.com/Ankita7238/lunacal-figma-replication.git
+   git clone https://github.com/Mahadevv01/lunacal-figma-replication.git
 
 2. Navigate to the project directory:<br/>
    cd lunacal-figma-replication
