@@ -34,6 +34,9 @@ The application consists of multiple components such as tabs, image galleries, a
 - **React.js**: A JavaScript library for building user interfaces, handling state, and managing the component structure.
 - **Tailwind CSS**: A utility-first CSS framework for styling the application with responsive design utilities.
 
+- ![Screenshot](https://github.com/user-attachments/assets/8a41c8f2-c9e7-4cd2-ba23-38785009d91e)
+
+
 ## Installation and Setup
 
 1. Clone the repository:<br/>
