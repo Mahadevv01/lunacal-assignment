@@ -73,10 +73,6 @@ For any questions or feedback, please contact:
 - Special thanks to the [Lunacal team](#) for their inspiration and support.
 - Icons and resources used in this project are from [IconSource](https://iconsource.com).
 
-## Contributing
-
-If you'd like to contribute to this project, please fork the repository and submit a pull request. All contributions are welcome!
-
 ## Changelog
 
 See the [CHANGELOG](CHANGELOG.md) for details on changes and updates to this project.
